@@ -30,6 +30,10 @@ pip install -r requirements.txt
 # pip install onnxruntime-silicon==1.13.1
 ```
 
+Apply necessary modifications for macOS:
+
+[github.com/hacksider/Deep-Live-Cam/compare/main...gongzhang:Deep-Live-Cam:main](https://github.com/hacksider/Deep-Live-Cam/compare/main...gongzhang:Deep-Live-Cam:main)
+
 Run:
 ```sh
 python run.py --execution-provider coreml
